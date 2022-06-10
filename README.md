@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/104484543/173001087-d7005530-0827-42ce-98cd-ac201aeaa0ac.png)
+
 - 👋 Hello everyone, my name is Christian!
 - 👀 I’m interested in Computer Science and Business Administration
 - 🌱 I’m currently learning Python, Java, JavaScript, CSS, and HTML!

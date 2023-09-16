@@ -1,6 +1,6 @@
 
 <h1 align="center">Christian Phan</h1>
-<h3 align="center">Passionate programmer, and filled with ideas.</h3>
+
 
 
 
